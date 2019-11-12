@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color:#3098dd;
+    font-size: 12px
+    
+}
+
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
+.boarder {
+    border-left: 5px solid #bdc7cf;
+    padding: 5px;
+}
+
+body {
+
+    border-left: 10px solid #bdc7cf;
+    border-right: 10px solid #bdc7cf;
+    border-top: 10px solid #bdc7cf;
+    border-bottom: 10px solid #bdc7cf;
+    padding: 20px; 
+
+     margin: 0 auto;
+        width: 60%
+}
+
+
+   
